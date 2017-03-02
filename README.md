@@ -13,10 +13,10 @@ cronが動作するとなお良い
 * users.jsonに取得したいユーザーを追加する  
 以下テンプレ
     ```
-    "スクリーンネーム(@~~的なやつ)": {
-        "user_id": 0,
-        "state": "",
-        "since": ""
+    "スクリーンネーム(@~~的なやつ)": {  
+        "user_id": 0,  
+        "state": "",  
+        "since": ""  
     }
     ```
     user_id,state,sinceは自動で挿入されるので変更不要
@@ -28,8 +28,8 @@ cronが動作するとなお良い
 MITLicense  
 
 ### cowitter
-MITLicense
-MIT License / https://github.com/mpyw/cowitter  
+MIT License / https://github.com/mpyw/cowitter
+
 Copyright (c) 2016 mpyw  
 Permission is hereby granted, free of charge, to any person obtaining a copy  
 of this software and associated documentation files (the "Software"), to deal  
