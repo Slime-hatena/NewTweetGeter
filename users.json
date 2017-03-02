@@ -1,0 +1,12 @@
+{
+    "Twitter": {
+        "user_id": 783214,
+        "state": "NotExist->user_id",
+        "since": "837117128205488130"
+    },
+    "TwitterJP": {
+        "user_id": 524294327,
+        "state": "NotExist->user_id",
+        "since": "837273075829764096"
+    }
+}
