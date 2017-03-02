@@ -19,7 +19,7 @@ cronが動作するとなお良い
         "since": ""  
     }
 ```
-    user_id,state,sinceは自動で挿入されるので変更不要  
+user_id,state,sinceは自動で挿入されるので変更不要  
 * cronを適時叩く
 * $resultに結果が入るので加工して使う
 
